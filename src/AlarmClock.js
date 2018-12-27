@@ -1,4 +1,6 @@
-class AlarmClock {
+import State from './State';
+
+export default class {
   constructor() {
     this.minutes = 0;
   }
@@ -6,4 +8,4 @@ class AlarmClock {
     console.log(this.minutes);
   }
 }
-export default AlarmClock;
+

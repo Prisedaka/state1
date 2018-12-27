@@ -1,4 +1,4 @@
-import AlarmClock from '../AlarmClock';
+import AlarmClock from '../src/AlarmClock';
 
 
 describe('AlarmClock', () => {
