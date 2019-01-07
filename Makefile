@@ -11,6 +11,7 @@ build:
 	npm run build
 
 test:
+	clear
 	npm test
 
 check-types:
